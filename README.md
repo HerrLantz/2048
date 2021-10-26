@@ -1,10 +1,6 @@
-# game-2048
+# 2048
 
-FIXME: Write a one-line description of your library/project.
-
-## Overview
-
-FIXME: Write a paragraph about the library/project and highlight its goals.
+An implementation of 2048 in clojurescript
 
 ## Development
 
